@@ -10,7 +10,7 @@ The project combines Python for data preparation and analysis with Power BI for 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
